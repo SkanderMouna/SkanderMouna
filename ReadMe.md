@@ -57,6 +57,7 @@ I thrive in the realms of:
 - 🤖 Backend Development
 - 🛠️ Data Engineering
 - 📊 Data Analytics
+- 📊 Data Science
 
 ## Connect with Me 🤝
 
