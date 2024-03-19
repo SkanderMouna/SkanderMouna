@@ -1,6 +1,6 @@
 # print("Hello, World!"); 👋
 
-I'm **Mouna SKander** and I am deeply fascinated by the realm of working with data, finding immense satisfaction in solving complex problems. My passion extends to continually exploring new ideas as I navigate the dynamic landscape of innovation and improvement.
+I'm **Mouna Skander** and I am deeply fascinated by the realm of working with data, finding immense satisfaction in solving complex problems. My passion extends to continually exploring new ideas as I navigate the dynamic landscape of innovation and improvement.
 ## About Me 🤓
 
 - 👨‍💻 Computer Science enthusiast
